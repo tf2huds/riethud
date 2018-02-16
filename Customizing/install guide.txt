@@ -1,0 +1,7 @@
+1. Copy the two scoreboard files/über percentage count
+
+2. go to resource/ui/
+
+3. Paste in ui and replace the two first scoreboards
+
+4. Done! You have now transparent scoreboards
